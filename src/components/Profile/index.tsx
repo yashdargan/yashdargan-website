@@ -9,7 +9,7 @@ const Profile: React.FC = () => {
           JavaScript.
         </p>
       </div>
-      <img className='w-32 md:h-36 md:w-auto order-1' src='assets/profile.png' alt='profile-photo' />
+      <img className='w-24 md:h-36 md:w-auto order-1' src='assets/profile.png' alt='profile-photo' />
     </section>
   )
 }
